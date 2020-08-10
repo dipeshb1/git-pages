@@ -40,7 +40,7 @@ export default function AutoGrid() {
   console.log(window.innerHeight)
   matches = useMediaQuery('(min-width:950px)');
   
-  const h = matches ?   "100%":(window.innerHeight - (62*(window.innerHeight))/100)
+  const h = matches ?   "100%":(window.innerHeight - (50*(window.innerHeight))/100)
   
   return (
     <div className={classes.base}>
