@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/git-pages/static/css/main.da133ffc.chunk.css",
+    "main.js": "/git-pages/static/js/main.5615cc0b.chunk.js",
+    "main.js.map": "/git-pages/static/js/main.5615cc0b.chunk.js.map",
+    "runtime-main.js": "/git-pages/static/js/runtime-main.c547d5e1.js",
+    "runtime-main.js.map": "/git-pages/static/js/runtime-main.c547d5e1.js.map",
+    "static/js/2.62028b98.chunk.js": "/git-pages/static/js/2.62028b98.chunk.js",
+    "static/js/2.62028b98.chunk.js.map": "/git-pages/static/js/2.62028b98.chunk.js.map",
+    "index.html": "/git-pages/index.html",
+    "precache-manifest.cef9a6f5b23176cd6d31795345aff654.js": "/git-pages/precache-manifest.cef9a6f5b23176cd6d31795345aff654.js",
+    "service-worker.js": "/git-pages/service-worker.js",
+    "static/css/main.da133ffc.chunk.css.map": "/git-pages/static/css/main.da133ffc.chunk.css.map",
+    "static/js/2.62028b98.chunk.js.LICENSE.txt": "/git-pages/static/js/2.62028b98.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/git-pages/static/media/Picture2.3a2a92f2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c547d5e1.js",
+    "static/js/2.62028b98.chunk.js",
+    "static/css/main.da133ffc.chunk.css",
+    "static/js/main.5615cc0b.chunk.js"
+  ]
+}
